@@ -1,9 +1,17 @@
+.box {
+    width: 1000px;
+    box-shadow: 1px 1px 4px black;
+
+}
+
+
 h1, ul {
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: 'Quicksand', 'Raleway', sans-serif, Arial;
     text-shadow: 1px 1px 3px black;
 }
 
 * {
-    background-color: yellow;
+    background-color: white;
+    box-sizing: border-box;
 }
